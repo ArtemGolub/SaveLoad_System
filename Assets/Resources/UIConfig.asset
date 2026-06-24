@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 652dfbdb60414055acb9fbb833555151, type: 3}
+  m_Name: UIConfig
+  m_EditorClassIdentifier: Assembly-CSharp::Code.UI.Factories.UIConfig
+  ScoreBarPrefab: {fileID: 2482817370764256889, guid: 2cdc8fcad695a3040be3f7b106e17576, type: 3}
+  ScoreManipulatorPrefab: {fileID: 6231681383666799665, guid: caaa1b688676ba447ab76997f5de0e3d, type: 3}
+  SaveLoadPrefab: {fileID: 3027657983017013153, guid: b7fa86337f09af043a1155cc7cfcb95f, type: 3}
